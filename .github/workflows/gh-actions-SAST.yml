@@ -2,7 +2,7 @@ name: Static Analysis Security Testing (SAST)
 
 on:
   push:
-    branches: [ "master" ]
+    branches: none
   workflow_dispatch:
 
 permissions:
